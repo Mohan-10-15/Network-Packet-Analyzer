@@ -1,0 +1,5 @@
+scapy
+pyqt6
+matplotlib
+reportlab
+geoip2

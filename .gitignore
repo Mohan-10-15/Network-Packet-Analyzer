@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite
+*.sqlite3
+
+incident_report.pdf
+
+venv/
+.env
+
+geoip/GeoLite2-Country.mmdb
