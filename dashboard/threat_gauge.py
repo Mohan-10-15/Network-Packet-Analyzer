@@ -18,7 +18,7 @@ class ThreatGauge(QProgressBar):
         )
 
         self.setFormat(
-            "Threat Score: %p%%"
+            "Threat Score: %p%"
         )
 
         self.update_color(
