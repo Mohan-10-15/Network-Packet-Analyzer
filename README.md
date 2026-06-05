@@ -155,22 +155,29 @@ python main.py
 
 ## Screenshots
 
-### Dashboard
+## Main Dashboard
 
-Add dashboard screenshot here
+![Dashboard](docs/dashboard.png)
 
-### Threat Feed
+## Alerts
 
-Add threat feed screenshot here
+![Alerts](docs/alerts.png)
 
-### Threat Heatmap
+## Threat Feed
 
-Add heatmap screenshot here
+![Threat Feed](docs/threat_feed.png)
 
-### PDF Report
+## Timeline
 
-Add PDF report screenshot here
+![Timeline](docs/timeline.png)
 
+## Heatmap
+
+![Heatmap](docs/heatmap.png)
+
+## Threat Map
+
+![Threat Map](docs/threat_map.png)
 ---
 
 ## Future Enhancements
