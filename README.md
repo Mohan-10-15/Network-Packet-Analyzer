@@ -155,29 +155,33 @@ python main.py
 
 ## Screenshots
 
-## Main Dashboard
+## Dashboard
 
-![Dashboard](docs/dashboard.png)
+<img src="docs/dashboard.png" width="1000">
 
-## Alerts
-
-![Alerts](docs/alerts.png)
+---
 
 ## Threat Feed
 
-![Threat Feed](docs/threat_feed.png)
+<img src="docs/threat_feed.png" width="1000">
+
+---
 
 ## Timeline
 
-![Timeline](docs/timeline.png)
+<img src="docs/timeline.png" width="1000">
+
+---
 
 ## Heatmap
 
-![Heatmap](docs/heatmap.png)
+<img src="docs/heatmap.png" width="1000">
+
+---
 
 ## Threat Map
 
-![Threat Map](docs/threat_map.png)
+<img src="docs/threat_map.png" width="1000">
 ---
 
 ## Future Enhancements
